@@ -1,0 +1,155 @@
+.navbar-brand{
+  margin-left:60px;
+}
+.navbar-collapse{
+  margin-left: 900px;
+}
+.navbar{
+  height:90px;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: lighter 300;
+}
+.nav-link{
+  color:#a87e69;
+}
+.fixed-top{
+    position: fixed;
+}
+#top{
+  margin-top:60px;
+  background-color: #EDD4C2;
+  padding-top:90px;
+  box-shadow: 10px 0 1rem;
+}
+
+.container-fluid{
+  padding-top:20px;
+  padding-bottom: 20px;
+}
+.info{
+  margin-left:150px;
+  margin-top: 150px;
+}
+.container-fluid img{
+  height: 500px;
+  weight:500px;
+  margin-left: 100px;
+}
+.words{
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: normal 300;
+  font-size: 18px;
+}
+.words1{
+   margin-top:-15px;
+   font-family: 'Sriracha', cursive;
+   font-weight: bold;
+   font-size: 2rem;
+   color:#6b705c;
+}
+.btn1{
+  color: #fff;
+  background-color: #a5a58d;
+  border-color: #a5a58d;
+  width:50px;
+  font-size: 1.25rem;
+  padding: .8rem 1.5rem;
+  line-height: 1.8;
+  border-radius: .3rem;
+  text-align: center;
+  box-shadow:0 0 5px #a5a58d;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 500;
+}
+.btn2{
+  color: #fff;
+  background-color: #a5a58d;
+  border-color: #a5a58d;
+  width:50px;
+  font-size: 1.25rem;
+  padding: .5rem 1rem;
+  line-height: 1.8;
+  border-radius: .3rem;
+  text-align: center;
+  box-shadow:0 0 5px #a5a58d;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: normal 400;
+}
+#Products{
+  margin-top:50px;
+  margin-bottom:50px;
+  padding-top:90px;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: normal 400;
+}
+.col-md-4.a{
+  background-color:#ddbea9;
+  padding:40px;
+  color:#f0efeb;
+}
+.col-md-4.b{
+  background-color:#eddcd2;
+  padding:40px;
+  color:#6b705c;
+}
+.col-md-4.c{
+  background-color:#b7b7a4;
+  padding:40px;
+  color:#f0efeb;
+}
+
+#Company{
+  margin-top:50px;
+  margin-bottom:50px;
+  padding-top:90px;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: normal 500;
+}
+.images{
+  height: 28.125rem;
+  width: 34.375rem;
+  display:flex;
+}
+#Company h2{
+  color:#cb997e;
+}
+.pp{
+  color:#cb997e;
+}
+#Company h3{
+  color:#b98b73;
+}
+#Contacts{
+  background-color: #DDBEA9;
+  padding-top:20px;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: normal 400;
+  color:#3F4233;
+  box-shadow: 0 0 .5rem;
+}
+.form-footer input[type="text"] {
+border: none;
+border-radius: 16px 0 0 16px;
+outline: none;
+padding-left: 10px;
+}
+::placeholder {
+font-size: 13px;
+padding-left: 10px;
+font-style: italic;
+}
+.form-footer input[type="button"] {
+border: none;
+background:#3F4233;
+margin-left: -5px;
+color: #fff;
+outline: none;
+border-radius: 0 16px 16px 0;
+padding: 2px 12px;
+}
+.social .fab {
+color: #3F4233;
+font-size: 22px;
+padding: 10px 15px;
+background: #f0efeb;
+}
