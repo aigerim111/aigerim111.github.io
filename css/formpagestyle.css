@@ -1,0 +1,44 @@
+.body{
+  background-color:#EDD4C2;
+  margin:50px;
+  color:#6b705c;
+  font-family: 'Ubuntu', sans-serif;
+}
+input[type=submit]{
+  background-color: #3F4233;
+  color:white;
+  border-radius: 8px;
+  border-color: #3F4233;
+  height:40px;
+  width:80px;
+  font-family: 'Ubuntu', sans-serif;
+  box-shadow:0 0 2px;
+}
+input[type=reset]{
+   background-color: #3F4233;
+   color:white;
+   border-radius: 8px;
+   border-color: #3F4233;
+   height:40px;
+   width:80px;
+   font-family: 'Ubuntu', sans-serif;
+   box-shadow:0 0 2px;
+}
+input[type=email]{
+  border-radius: 8px;
+  box-shadow:0 0 2px;
+  border-color: white;
+}
+input[type=text]{
+  border-radius: 8px;
+  box-shadow:0 0 2px;
+  border-color: white;
+}
+.form{
+  box-shadow: 0 0 5px black;
+  background-color: white;
+  width:20em;
+  padding:20px;
+  border-radius: 8px;
+  color:#3F4233;
+}
