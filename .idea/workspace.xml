@@ -2,8 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e4769f7-5a70-42b9-a640-a6291d0304a7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/character 2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/character 21.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/character.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/character.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp.html" beforeDir="false" afterPath="$PROJECT_DIR$/cpp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dd1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dd1c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dd1j.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dd2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dd2c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dd2j.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ddc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ddj.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/formpage.html" beforeDir="false" afterPath="$PROJECT_DIR$/formpage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formpagestyle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon1.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java.html" beforeDir="false" afterPath="$PROJECT_DIR$/java.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webdes.html" beforeDir="false" afterPath="$PROJECT_DIR$/webdes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webka.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webstyle.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,24 +49,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Aigerim\aigerim111.github.io\images" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -51,6 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1631690191766</updated>
       <workItem from="1631690195049" duration="110000" />
+      <workItem from="1631690335451" duration="466000" />
     </task>
     <servers />
   </component>
@@ -67,5 +82,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
